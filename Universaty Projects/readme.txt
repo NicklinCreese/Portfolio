@@ -1,0 +1,1 @@
+This GitHub file serves as a comprehensive collection of all the projects required for various courses throughout your university journey. Organized by semester and subject, This repository aims to summarise my academic experience by in a centralized location.
